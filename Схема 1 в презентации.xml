@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T12:57:20.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.1.112 Yowser/2.5 Safari/537.36" etag="3IElaZ94I2MtbFjEg1Ok" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T09:44:01.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.1.112 Yowser/2.5 Safari/537.36" etag="nvqN-A5iZqEZpNLmHhJi" version="13.7.9" type="github">
   <diagram id="iGFlhRHP2QP0QTIvHrUV" name="Page-1">
-    <mxGraphModel dx="1145" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="PHHvXce_GVXNY2ymsYDW-9" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#141B24;strokeWidth=3;" parent="PHHvXce_GVXNY2ymsYDW-12" vertex="1">
           <mxGeometry x="13.333333333333336" y="12.5" width="26.66666666666667" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="PHHvXce_GVXNY2ymsYDW-22" value="&lt;b&gt;&lt;font color=&quot;#000066&quot;&gt;146&lt;/font&gt;&lt;br&gt;миллионов&lt;br&gt;&lt;font color=&quot;#000066&quot;&gt;74%&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PHHvXce_GVXNY2ymsYDW-22" value="&lt;b&gt;&lt;font color=&quot;#000066&quot;&gt;146&lt;/font&gt;&lt;br&gt;миллионов&lt;br&gt;&lt;font color=&quot;#000066&quot;&gt;В России&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PHHvXce_GVXNY2ymsYDW-24" value="&lt;b&gt;&lt;font color=&quot;#000066&quot;&gt;118,0&lt;/font&gt;&lt;br&gt;миллионов&lt;br&gt;&lt;font color=&quot;#000066&quot;&gt;81%&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -58,25 +58,25 @@
         <mxCell id="PHHvXce_GVXNY2ymsYDW-30" value="количество пользователей&lt;br&gt;Социальных сетей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="147" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-6" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-6" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="374.5" y="215" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeWidth=3;" vertex="1" parent="rUoOYwR9_zJUiXzJTkPB-6">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeWidth=3;" parent="rUoOYwR9_zJUiXzJTkPB-6" vertex="1">
           <mxGeometry y="7.083333333333334" width="26.78571428571429" height="35.833333333333336" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-5" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeWidth=3;" vertex="1" parent="rUoOYwR9_zJUiXzJTkPB-6">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-5" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeWidth=3;" parent="rUoOYwR9_zJUiXzJTkPB-6" vertex="1">
           <mxGeometry x="14.285714285714286" width="35.714285714285715" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-7" value="&lt;b&gt;&lt;font color=&quot;#000066&quot;&gt;1,0&lt;/font&gt;&lt;br&gt;миллиард&lt;br&gt;&lt;font color=&quot;#000066&quot;&gt;в месяц&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-7" value="&lt;b&gt;&lt;font color=&quot;#000066&quot;&gt;1,0&lt;/font&gt;&lt;br&gt;миллиард&lt;br&gt;&lt;font color=&quot;#000066&quot;&gt;в месяц&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="290" width="55" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-8" value="количество сообщений в&lt;br&gt;Социальных сетях" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-8" value="количество сообщений в&lt;br&gt;Социальных сетях" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="147" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PHHvXce_GVXNY2ymsYDW-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#141B24;strokeWidth=3;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="121.5" width="520" height="237" as="geometry" />
         </mxCell>
-        <mxCell id="rUoOYwR9_zJUiXzJTkPB-9" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="rUoOYwR9_zJUiXzJTkPB-9" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="490" y="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PHHvXce_GVXNY2ymsYDW-16" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;strokeWidth=3;fillColor=#dae8fc;strokeColor=#141B24;" parent="rUoOYwR9_zJUiXzJTkPB-9" vertex="1">
