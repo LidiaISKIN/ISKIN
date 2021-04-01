@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T10:06:00.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.1.112 Yowser/2.5 Safari/537.36" etag="FboU1uDlCzxqkEkcGqZe" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T16:07:33.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.165 Yowser/2.5 Safari/537.36" etag="a5UPJtnrxi3YcW6HdSdi" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1130" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,10 +22,10 @@
             <mxPoint x="245" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mlPTp-4HMjCO2Mk7VtP_-4" value="Настройка системы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="mlPTp-4HMjCO2Mk7VtP_-4" value="Ранжирование контрмер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185" y="140" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="L11XnWD10YRuvmrj0tQj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mlPTp-4HMjCO2Mk7VtP_-8" target="mlPTp-4HMjCO2Mk7VtP_-10">
+        <mxCell id="L11XnWD10YRuvmrj0tQj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mlPTp-4HMjCO2Mk7VtP_-8" target="mlPTp-4HMjCO2Mk7VtP_-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="344" as="targetPoint" />
             <Array as="points">
@@ -71,7 +71,7 @@
             <mxPoint x="130.04000000000002" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mlPTp-4HMjCO2Mk7VtP_-17" value="Оценка распространителей" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="mlPTp-4HMjCO2Mk7VtP_-17" value="Анализ источников" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="140" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mlPTp-4HMjCO2Mk7VtP_-18" value="Формирование уточненных списков объектов" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
